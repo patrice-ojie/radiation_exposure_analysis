@@ -7,3 +7,7 @@ This is a case study task that was set whilst enrolled as a student in a Hyperio
 Develop a program to:
 * Input and store radiation data from different environments.
 * Calculate key statistics (average, standard deviation) to analyse data variability.
+
+#### Installation
+
+You can fork a copy of the code to use and amend as you see fit.
